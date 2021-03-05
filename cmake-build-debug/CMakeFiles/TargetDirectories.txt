@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Personal Projects in CPP/HelloBlockchain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/Personal Projects in CPP/HelloBlockchain/cmake-build-debug/CMakeFiles/HelloBlockchain.dir
+C:/Users/user/CLionProjects/Personal Projects in CPP/HelloBlockchain/cmake-build-debug/CMakeFiles/edit_cache.dir
